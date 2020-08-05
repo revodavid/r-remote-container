@@ -1,0 +1,5 @@
+{
+    "name": "Tidyverse 3.6.3",
+    "image": "hub.docker.com/r/rocker/tidyverse:3.6.3",
+    "forwardPorts": [3000],
+}
